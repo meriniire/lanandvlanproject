@@ -1,0 +1,4 @@
+scenario_id,name,difficulty,description,solution_hint
+1,VLAN Segmentation Design,Intermediate,"Design a VLAN structure for a company with Sales, Engineering, and HR departments",Create separate VLANs for each department with inter-VLAN routing
+2,Firewall Policy Implementation,Advanced,Configure firewall rules to allow only web traffic from Sales to DMZ,Allow TCP port 80/443 from Sales VLAN to DMZ VLAN
+3,Troubleshooting VLAN Connectivity,Beginner,Fix connectivity issues between devices on the same VLAN,Check VLAN port assignments and trunk configurations

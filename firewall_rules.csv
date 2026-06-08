@@ -1,0 +1,1 @@
+rule_id,topology_id,source_vlan,destination_vlan,protocol,source_port,destination_port,action,priority,created_at

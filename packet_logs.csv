@@ -1,0 +1,1 @@
+log_id,session_id,source_vlan,destination_vlan,packet_size,vlan_tag,action,protocol,port,timestamp
